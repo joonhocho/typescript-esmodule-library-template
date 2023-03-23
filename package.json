@@ -26,7 +26,6 @@
     "url": "https://github.com/joonhocho/typescript-esmodule-library-template/issues"
   },
   "homepage": "https://github.com/joonhocho/typescript-esmodule-library-template#readme",
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
@@ -35,11 +34,11 @@
     "@types/jest": "^29.5.0",
     "jest-ts-webcompat-resolver": "^1.0.0",
     "prettier": "^2.8.6",
+    "shelljs": "^0.8.5",
     "shx": "^0.3.4",
     "ts-jest": "^29.0.5",
     "typescript": "^5.0.2"
   },
-  "peerDependencies": {},
   "publishConfig": {
     "access": "public"
   },
